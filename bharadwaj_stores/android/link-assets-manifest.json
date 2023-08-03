@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "src/assets/fonts/YsabeauInfant-Bold.ttf",
+      "sha1": "104cc3778ac6f0aef0c5eb94cb777f814f32a1ad"
+    },
+    {
+      "path": "src/assets/fonts/YsabeauInfant-BoldItalic.ttf",
+      "sha1": "8d3111fb535d916b318d1d39844db3de9ea6796e"
+    }
+  ]
+}
